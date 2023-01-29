@@ -1,11 +1,11 @@
 # PWA
 
-## user story
+## User Story
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
-## acceptance criteria
+## Acceptance Criteria
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
@@ -32,8 +32,12 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
+## Deployed Link
+
 Deployed on heroku
 https://evening-reaches-21339.herokuapp.com/
 
 Repo Link
 https://github.com/Sminker0401/PWA
+
+![livesite](./images/site%20shot.png)
